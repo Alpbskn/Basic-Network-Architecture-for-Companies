@@ -102,8 +102,7 @@ To review this project on your own computer, install Cisco Packet Tracer and ope
 
 ## Project Files
 
-- **Project Report**: [ReportFile.docx](./ReportFile.docx)
-- **Project Topology File**: [Project.pkt](./Project.pkt)
+- **Project Topology File**: [Project.pkt](./proje.pkt)
 
 ---
 
